@@ -1,0 +1,17 @@
+{
+  "asset": "https://potifywebsite.com/assets/index-DPxJrcwi.js",
+  "sha256": "5bd3725eeb707bf2ec9de97b825a65344fc308c21ab188e068171bc3768173b2",
+  "observed": "2026-11-25",
+  "public_paths": [
+    "/",
+    "/company",
+    "/company/formation-map",
+    "/green-light-pay",
+    "/greenhouse",
+    "/plant-doctor",
+    "/regulatory",
+    "/spin",
+    "/spin/verify",
+    "/spin/verify/:code"
+  ]
+}
