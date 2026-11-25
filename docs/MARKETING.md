@@ -20,4 +20,4 @@ Use `website-first-public-build` for the pilot. Record a 28-day prelaunch baseli
 
 Proposed pilot budget is $0 for distribution and two founder hours for the first demonstration. At day 7, inspect the biggest point of friction. At day 28, expand only if the target action was measured and the sales test produced identifiable demand. Report fulfilled sales net of refunds and direct costs. A product serving trust or internal operations may have no direct sales at all.
 
-**Prerequisite for external promotion.** A clean public project directory is useful while the production website and its private PR still need authorized source access. Draft copy and placements go through the existing approval process.
+**Prerequisite for external promotion.** The complete main website source is verified in the owner-controlled private repository. This public developer edition omits private account records, runtime configuration and operational data. Production and Replit parity remain unverified. Draft copy and placements go through the existing approval process.

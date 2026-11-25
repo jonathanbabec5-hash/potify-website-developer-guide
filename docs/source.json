@@ -1,7 +1,7 @@
 {
   "project": "POTIFY Website",
   "kind": "Public integration guide",
-  "source": "Main-domain response and Replit listing for POTIFY Website, checked November 25. Public route destinations are also present in the First Cycle universe page. This newly authored integration guide is separate from the production application. The SHA-256 and public route patterns from the actual main website bundle are in src/observed-routes.json.",
+  "source": "Main-domain response and Replit listing for POTIFY Website, checked November 25. Public route destinations are also present in the First Cycle universe page. This newly authored integration guide is separate from the production application. The SHA-256 and public route patterns from the actual main website bundle are in src/observed-routes.json. Original website routing and selected Greenhouse, account, community and GLP integration source were recovered at b40b28683e548a04619f1e018814dd91aec1256d.",
   "scope": "A clean public project directory is useful while the production website and its private PR still need authorized source access.",
   "prepared": "2026-11-25"
 }

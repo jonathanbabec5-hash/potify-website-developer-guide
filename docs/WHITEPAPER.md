@@ -1,7 +1,7 @@
 # POTIFY Website
 ## Whitepaper · public developer edition
 
-**November 25, 2026 · Public integration guide**
+**November 25, 2026 · Website integration source and route directory**
 
 ### Goal and audience
 
@@ -9,7 +9,7 @@ Give visitors one reliable way to move from a POTIFY project to the next. The im
 
 ### Design and implementation
 
-Public hub metadata connects the project directory to existing destinations. The original account service, route handlers and production database remain upstream. Keep the directory usable before sign-in. Mark each link as a free tool, a shop, a sandbox or a reading destination, so a visitor knows what will open.
+The public directory is accompanied by original website router, account screens, Greenhouse and community components, portal integration code and selected database schemas. Its public preview runs without a database. Keep the directory usable before sign-in. Mark each link as a free tool, a shop, a sandbox or a reading destination, so a visitor knows what will open.
 
 ### What a contributor can establish
 
@@ -17,7 +17,7 @@ The public entry page returned HTTP 200 and rendered local content in Chromium a
 
 ### Evidence and outstanding work
 
-A clean public project directory is useful while the production website and its private PR still need authorized source access. The next acceptance case is concrete. A mobile visitor can find Plant Doctor, the Greenhouse and the shop in two taps from a proposed directory.
+The complete main website source is verified in the owner-controlled private repository. This public developer edition omits private account records, runtime configuration and operational data. Production and Replit parity remain unverified. The next acceptance case is concrete. A mobile visitor can find Plant Doctor, the Greenhouse and the shop in two taps from a proposed directory.
 
 ### Place in POTIFY
 

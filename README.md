@@ -2,7 +2,7 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
-**Public integration guide.** Give visitors one reliable way to move from a POTIFY project to the next.
+**Website integration source and route directory.** Give visitors one reliable way to move from a POTIFY project to the next.
 
 ### Setup and usage
 
@@ -16,7 +16,7 @@ Open one project from the directory. Open http://127.0.0.1:8000/ in a browser.
 
 ### Developer entry points
 
-Public hub metadata connects the project directory to existing destinations. The original account service, route handlers and production database remain upstream. Explore `public/`, `src/`, `tests/` in the full tree.
+The public directory is accompanied by original website router, account screens, Greenhouse and community components, portal integration code and selected database schemas. Its public preview runs without a database. Explore `public/`, `reference/`, `src/`, `tests/` in the full tree.
 
 ### Verification
 
@@ -28,7 +28,7 @@ node --test tests/project.test.mjs
 
 ### Release scope
 
-A clean public project directory is useful while the production website and its private PR still need authorized source access. Main-domain response and Replit listing for POTIFY Website, checked November 25. Public route destinations are also present in the First Cycle universe page. This newly authored integration guide is separate from the production application. The SHA-256 and public route patterns from the actual main website bundle are in src/observed-routes.json.
+The complete main website source is verified in the owner-controlled private repository. This public developer edition omits private account records, runtime configuration and operational data. Production and Replit parity remain unverified. Main-domain response and Replit listing for POTIFY Website, checked November 25. Public route destinations are also present in the First Cycle universe page. This newly authored integration guide is separate from the production application. The SHA-256 and public route patterns from the actual main website bundle are in src/observed-routes.json. Original website routing and selected Greenhouse, account, community and GLP integration source were recovered at b40b28683e548a04619f1e018814dd91aec1256d.
 
 [Technical whitepaper](docs/WHITEPAPER.md) · [Marketing and sales plan](docs/MARKETING.md) · [Dated developer log](docs/BUILD-LOG.md)
 
