@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## What did the visitor come here to do?
+
+One person arrives for a book; another for a plant question. A homepage that sends both through the same unexplained doorway makes the project harder to love. The website directory is where those different intentions ought to become obvious.
+
+Compare the [observed route list](src/observed-routes.json) with the [public directory](src/directory.json). A path in the source tells you how the application is arranged. A completed task requires a person to arrive at the right screen and be able to use it.
+
+Choose one free destination. Record the entry label, the final page and the task you could actually complete without signing in. If a route comes back to the homepage, give that route and a description of what you expected to see.
+
 **Website integration source and route directory.** Give visitors one reliable way to move from a POTIFY project to the next.
 
 ### Setup and usage
