@@ -1,5 +1,13 @@
 # POTIFY Website
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A visitor | [Read the public directory](src/directory.json) | Find a route matching a real visitor goal. |
+| A developer | [Inspect observed routes](src/observed-routes.json) | Compare source paths with the destination a visitor reaches. |
+| A contributor | [Explore the project tree](docs/DIRECTORY.md) | Report an unclear label with the actual destination. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## What did the visitor come here to do?
